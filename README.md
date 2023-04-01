@@ -1,5 +1,5 @@
 # WiFi Control Server
-This is a simple Golang server that allows you to control your NETGEAR Routeur WiFi Nighthawk (R7800) router by turning the WiFi on or off. It serves a web page that displays the current WiFi status and provides buttons to enable or disable the WiFi.
+This is a simple Golang server that allows you to control your NETGEAR WiFi Router Nighthawk (R7800) router by turning the WiFi on or off. It serves a web page that displays the current WiFi status and provides buttons to enable or disable the WiFi.
 
 ## Prerequisites
 
