@@ -10,7 +10,7 @@ This is a simple Golang server that allows you to control your NETGEAR Routeur W
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wifi-control-server.git
+git clone https://github.com/fpesce/wifi-control-server.git
 cd wifi-control-server
 ```
 2. Set the required environment variables:
